@@ -15,7 +15,7 @@ def load_qa():
 st.markdown(
     """
     <div style="text-align: center;">
-        <img src="https://i.imgur.com/0XkS5zX.png" alt="AskGenie AI" width="120"/>
+        <img src="logo.png" alt="AskGenie AI" width="120"/>
         <h1 style="color: #4a148c;">🧞 AskGenie AI</h1>
     </div>
     """,
